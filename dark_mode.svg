@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1330px" height="560px" font-size="13px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1330px" height="560px" fill="#161b22" rx="15"/>
+<text x="15" y="20" fill="#c9d1d9" class="ascii" font-size="6px">
+<tspan x="15" y="90">                                                                     .:=+++**+-:.. .                                                                        </tspan>
+<tspan x="15" y="97">                                                                  :+#%%%%%%%%%%%%%%%%###**+==++-                                                            </tspan>
+<tspan x="15" y="104">                                                               -*%%%%%%%%%%%%%%%%%%%%%%%%%%%#*##*-                                                          </tspan>
+<tspan x="15" y="111">                                                            .*%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%##*=                                                      </tspan>
+<tspan x="15" y="118">                                                          .*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###%%*:                                                    </tspan>
+<tspan x="15" y="125">                                                         -#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#=                                                    </tspan>
+<tspan x="15" y="132">                                                       -#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#-                                                   </tspan>
+<tspan x="15" y="139">                                                     .+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+.                                                 </tspan>
+<tspan x="15" y="146">                                                    .+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#-                                                </tspan>
+<tspan x="15" y="153">                                                   .+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#=                                                </tspan>
+<tspan x="15" y="160">                                                  .*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*:                                               </tspan>
+<tspan x="15" y="167">                                                 .=#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###*.                                              </tspan>
+<tspan x="15" y="174">                                                 :*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###%%%%%%%%%%%%%%%%%%%%%%####-                                              </tspan>
+<tspan x="15" y="181">                                                  -#%%%%%%%%%%%###%%%%%#######**********##%%%%%%##%#%%%%%%###+                                              </tspan>
+<tspan x="15" y="188">                                                  :#%%%%%%%%#**#######**++++========-----==++*****###%%%%%###*                                              </tspan>
+<tspan x="15" y="195">                                                  .+%%%%%%#***##########**+==----======++++=+=====*#%%%%%%%##*.                                             </tspan>
+<tspan x="15" y="202">                                                   :*%%%%#*+*******++******+===---===++++===---==-=*%%%%%%%##=                                              </tspan>
+<tspan x="15" y="209">                                                    =%%%%*++++++***++++++***++=::::-===+===-:.::--:=#%%%#%##+.                                              </tspan>
+<tspan x="15" y="216">                                                    :*%%%*+++******##*++*****+=:..:-++****+-:--::::-+%%%###=                                                </tspan>
+<tspan x="15" y="223">                                                     -*##*+++**+++++++++*****+=::::-=+=+**-.:=-:::::+####*:                                                 </tspan>
+<tspan x="15" y="230">                                                    .+*##+++++++++++++++****++-:::::--===-::::::::::=#+===.                                                 </tspan>
+<tspan x="15" y="237">                                                    .+***++++++++++++++++++++=-:::::::--::::.:::::::=+:-+=.                                                 </tspan>
+<tspan x="15" y="244">                                                     =***+==+++=+++++++++++++=-::::...::::::::::::::==:-=-.                                                 </tspan>
+<tspan x="15" y="251">                                                     :+*#+++++++====+++++++++=-:..::..:::::::....:::==---.                                                  </tspan>
+<tspan x="15" y="258">                                                      =***++++++++====+++++++=-:::..:::::::.....:::-==--.                                                   </tspan>
+<tspan x="15" y="265">                                                      .+**++++++++++==++++*##*=:=*+:::::::.....::::----:                                                    </tspan>
+<tspan x="15" y="272">                                                       :+*++++++++++==+++****+=-:--:::::::....::::--:-:.                                                    </tspan>
+<tspan x="15" y="279">                                                        .-++*+++++++++++**#**++++=--::..:....:::::-:::.                                                     </tspan>
+<tspan x="15" y="286">                                                          :++**++++**###****+=+++++==--:::.::::::--.                                                        </tspan>
+<tspan x="15" y="293">                                                           =***+++*###*******+===+====++=::::::::-.                                                         </tspan>
+<tspan x="15" y="300">                                                           .+**++++*****#***+++==--======:::::::-:                                                          </tspan>
+<tspan x="15" y="307">                                                            :****+***++++**++==--::::::::::::---:                                                           </tspan>
+<tspan x="15" y="314">                                                             .****++**++++++***+=--:::::::::-==:                                                            </tspan>
+<tspan x="15" y="321">                                                             .+**************++=----::::::--=-:                                                             </tspan>
+<tspan x="15" y="328">                                                           :+*****###*******++==--:::::--==-:::                                                             </tspan>
+<tspan x="15" y="335">                                                         :+##*+****#########****++====+++--::::                                                             </tspan>
+<tspan x="15" y="342">                                                       .=*##%********###%%#######**##*+--::::::.                                                            </tspan>
+<tspan x="15" y="349">                                                      :=+#%%#************#######**=---::::::::-:                                                            </tspan>
+<tspan x="15" y="356">                                                     :=+##%##***++++++*******+=----:::::::::::+-. .                                                         </tspan>
+<tspan x="15" y="363">                                                  .:=--*####**+++++++++++*++++---::::::::::::-+-  .::                                                       </tspan>
+<tspan x="15" y="370">                                              .:-==--:=*#*****+++++++++++++++==--:::::::::::=*--   .-..                                                     </tspan>
+<tspan x="15" y="377">                                         .----==-----:-+*****+++++++====+++==---:::::::::::=*+-.    .:. ...                                                 </tspan>
+<tspan x="15" y="384">                                    .:-----======----:.-+**++++++============---:::-::::-=+*+-:.    .::........                                             </tspan>
+<tspan x="15" y="391">                               .:---:--========-=--=-:..=+++++++=======--====----------=++**=::.     .::. .........                                         </tspan>
+<tspan x="15" y="398">                          .:-=-----=---===========---:...=+=+++=======-----===-------==+**+=-:...    .-::.  .:.. ......                                     </tspan>
+<tspan x="15" y="405">                     .:------------=----=======++=-=-:.. .=========-==-:::---=========++++---:.:.    .-:::...::.... .......                                 </tspan>
+<tspan x="15" y="412">                  .:-----::::::----=----====+++++====-:.  :=-====-----::::::--=========-=--:--.:=+=: ::::::..:-....  .:.::. ....                            </tspan>
+<tspan x="15" y="419">                .--------::::-----===-======+++++===--...  .:::-----::::::::--=======-----:::-..::-=:::::--:.:::..:.. .:-:....:....                         </tspan>
+<tspan x="15" y="426">               :===------:::::-----==-======+++++=====-:..  .-::.::::::::::--======-------:............::--:..:...:....:::..::.:....                        </tspan>
+<tspan x="15" y="433">              -====------:::::::---==-========+++==+****+:  ..:::.....::-----=====---:::::...  ...    ..::--. ......:..::...::::......                      </tspan>
+<tspan x="15" y="440">             -=====------::::::::::------=========++++**++: .. :::...   ..-=====--:::::.....    .......:::---. .. ..::... ...::. ::...                      </tspan>
+<tspan x="15" y="447">            -=--===-:::--:..::::..:::::--=========+++=++++=-::..:::::......:==-::::.::...       ..  . ...::--.  .  ..::.  ...::. ::...                      </tspan>
+<tspan x="15" y="454">           :=---====::::--::::::::::--:--------------:-=---:-------=====++++-. ..:......        ..  . ....:--:  ....:::.. .::::..::...  .                   </tspan>
+<tspan x="15" y="461">          :=--:--=-=-:::--:.........::..:::::::::::::::--::::::::::-------=-.  ..:..:...        ..  . ....::--.     .:..  .:.:: .::.... .                   </tspan>
+<tspan x="15" y="468">         -==-:----===:..:-:.......::::..:.::::::::::...:::.....:::::-:::--=.   ..::.::.         ..  . .....:--:.     ...  ...:. .:..:..                     </tspan>
+<tspan x="15" y="475">         ==---==-:--=-. .--:......:::::.:.::::::::::....::.....::.::::.:-+:. ...::-:-:....... ..:..........:---:.    ..   .:::. .:.:..                      </tspan>
+<tspan x="15" y="482">         ==--:-=-::--=:..:-::......::-:.:.::::::::::::.:-:.::.:-:::::..:=+:  ...:-::::.        ............:--=-:         .::.. ....:.                      </tspan>
+<tspan x="15" y="489">         =--::-=:::--=-. .--::::::::---::::--:-----:....::....::..... .-==:.... :--::::..     ..:.... .......---:         .::.. ..::..                      </tspan>
+<tspan x="15" y="496">         =--::--:..-===:..-=-----:::---::.:::::::::..:.:-::::.........:-+=......:--::--:..   ...:..:. .......:---. .      .::.. ..--:.    ..                </tspan>
+<tspan x="15" y="503">         =--::-=-..:==+=:.-=---::::::--::::::::::::..::-=-:::..... ...:=+=......:=-:-=-:..   ......:....:.....-:=:...      .... .::--.   ...                </tspan>
+<tspan x="15" y="510">         +=-::-=-:.:-=++-.:==-----::-----:------:::..::-=-::.....  ..::-+-......:=-:==-:. .. ......::...:.....-:--:..      ...:.:--::.     ..               </tspan>
+<tspan x="15" y="517">         ==--==+=:..:==+=::=+====----=------:---:::..::-=-:.....   ..::=+-......:=-:==-:. .........::...:.....:::--:.      ...:.----:..   .....             </tspan>
+<tspan x="15" y="524">         ==-:-=+=:..:-=+*=-=+====----==-----:----::..::---:....    .:::-+-....::-=--==:.............:...::.....::--:.      .. .:=+=::..   .....             </tspan>
+<tspan x="15" y="531">                                  -===--------=-::..:::--. ..     ....:=:......:---==:. ...... ...............:::-:    .. ..  -+=--:..   ......            </tspan>
+</text>
+<text x="610" y="30" fill="#c9d1d9">
+<tspan x="610" y="28">indrajeet@mandal</tspan> -———————————————————————————————————————————————————————————————————-—-
+<tspan x="610" y="45" class="cc">. </tspan><tspan class="key">About</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Software Engineer focused on Backend Development, AI/GenAI, and Distributed</tspan>
+<tspan x="610" y="62" class="cc">.   </tspan><tspan class="value">Systems.</tspan>
+<tspan x="610" y="79" class="cc">. </tspan>
+<tspan x="610" y="96">- Contact</tspan> -——————————————————————————————————————————————————————————————————————————-—-
+<tspan x="610" y="113" class="cc">. </tspan><tspan class="key">Name</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Indrajeet Mandal</tspan>
+<tspan x="610" y="130" class="cc">. </tspan><tspan class="key">Phone</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">+91 85095 46263</tspan>
+<tspan x="610" y="147" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> . </tspan><tspan class="value">indrajeet20mandal02@gmail.com</tspan>
+<tspan x="610" y="164" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> . </tspan><tspan class="value">linkedin.com/in/indrajeet-mandal-301938283</tspan>
+<tspan x="610" y="181" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> . </tspan><tspan class="value">github.com/indrajeetmandal00</tspan>
+<tspan x="610" y="198" class="cc">. </tspan>
+<tspan x="610" y="215">- Technologies</tspan> -—————————————————————————————————————————————————————————————————————-—-
+<tspan x="610" y="232" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Python, Java, C++, JavaScript</tspan>
+<tspan x="610" y="249" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">React.js, Next.js</tspan>
+<tspan x="610" y="266" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Spring Boot, FastAPI, Node.js</tspan>
+<tspan x="610" y="283" class="cc">. </tspan><tspan class="key">Databases</tspan>:<tspan class="cc"> . </tspan><tspan class="value">PostgreSQL, MongoDB, Redis, Qdrant</tspan>
+<tspan x="610" y="300" class="cc">. </tspan><tspan class="key">AI.GenAI</tspan>:<tspan class="cc"> . </tspan><tspan class="value">RAG, LangChain, LLMs, Gemini, OpenAI</tspan>
+<tspan x="610" y="317" class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Pandas, Power BI</tspan>
+<tspan x="610" y="334" class="cc">. </tspan><tspan class="key">DevOps</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Docker, Kafka, Git</tspan>
+<tspan x="610" y="351" class="cc">. </tspan>
+<tspan x="610" y="368">- Featured Projects</tspan> -————————————————————————————————————————————————————————————————-—-
+<tspan x="610" y="385" class="cc">&gt; </tspan><tspan class="key">API Gateway</tspan><tspan class="cc">: </tspan><tspan class="value">Production-grade gateway with routing, auth, rate limiting</tspan>
+<tspan x="610" y="402" class="cc">&gt; </tspan><tspan class="key">Payment Gateway</tspan><tspan class="cc">: </tspan><tspan class="value">Distributed payments via Spring Boot, Kafka, Redis, PostgreSQL</tspan>
+<tspan x="610" y="419" class="cc">&gt; </tspan><tspan class="key">Scam Alert Tracker</tspan><tspan class="cc">: </tspan><tspan class="value">AI scam detection with RAG, Qdrant, Gemini, FastAPI, OCR</tspan>
+<tspan x="610" y="436" class="cc">&gt; </tspan><tspan class="key">Veritas</tspan><tspan class="cc">: </tspan><tspan class="value">AI meeting intelligence with FastAPI, Whisper, RAG, vector search</tspan>
+<tspan x="610" y="453" class="cc">&gt; </tspan><tspan class="key">Emotion Detection</tspan><tspan class="cc">: </tspan><tspan class="value">Real-time facial emotion classifier — TensorFlow, OpenCV, Flask</tspan>
+<tspan x="610" y="470" class="cc">&gt; </tspan><tspan class="key">FileDock</tspan><tspan class="cc">: </tspan><tspan class="value">Secure cloud file storage — Node.js, Express, MongoDB, JWT</tspan>
+<tspan x="610" y="487" class="cc">&gt; </tspan><tspan class="key">Music Streaming Backend</tspan><tspan class="cc">: </tspan><tspan class="value">REST API backend — Node.js, Express, MongoDB, JWT</tspan>
+</text>
+</svg>
